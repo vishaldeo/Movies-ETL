@@ -3,7 +3,7 @@ ETL_Deliverable3_starter_code.ipynb
 #config
 config.py
 # Resource folder
-Resources/
+Resources/*.csv
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
